@@ -37,9 +37,9 @@
 <h2 align="center">My Stats</h2>
 
 <div align=center>
-    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=lord-zuzurnc&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&theme=catppuccin_mocha" alt="Lord-ZNC's Most Used Languages" />
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=lord-zuzurnc&count_private=true&show_icons=true&locale=en&theme=catppuccin_mocha" alt="Lord-ZNC's GitHub Stats" />
-    <a href="https://streak-stats.demolab.com?user=Lord-Zuzurnc&theme=catppuccin-mocha&date_format=j%20M%5B%20Y%5D&mode=weekly"><img src="https://streak-stats.demolab.com?user=Lord-Zuzurnc&theme=catppuccin-mocha&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="Lord-ZuzurNC Github Streak" /></a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs?username=lord-zuzurnc&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&theme=catppuccin_mocha"><img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=lord-zuzurnc&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&theme=catppuccin_mocha" alt="Lord-ZNC's Most Used Languages" /> </a>
+    <a href="https://github-readme-stats.vercel.app/api?username=lord-zuzurnc&count_private=true&show_icons=true&locale=en&theme=catppuccin_mocha"><img width=390 src="https://github-readme-stats.vercel.app/api?username=lord-zuzurnc&count_private=true&show_icons=true&locale=en&theme=catppuccin_mocha" alt="Lord-ZNC's GitHub Stats" /> </a>
+    <a href="https://streak-stats.demolab.com?user=Lord-Zuzurnc&theme=catppuccin-mocha&date_format=j%20M%5B%20Y%5D&mode=weekly"><img src="https://streak-stats.demolab.com?user=Lord-Zuzurnc&theme=catppuccin-mocha&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="Lord-ZuzurNC Github Streak" /> </a>
 </div>
 
 <h2 align="center">My Contributions</h2>
