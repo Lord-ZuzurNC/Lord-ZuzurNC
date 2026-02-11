@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lord-zuzurnc" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Whaaaam](https://github.com/Lord-ZuzurNC/Whaaaam) - A reverse way to create Minecraft Modpack, from mods to MC Version and Loader.
-
-<p align="center"><a href="https://github.com/Lord-ZuzurNC/Whaaaam" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lord-ZuzurNC&repo=Whaaaam&locale=en&theme=catppuccin_mocha" /> </a> </p>
+- 🔭 I’m currently working on
+  - [Whaaaam](https://github.com/Lord-ZuzurNC/Whaaaam) - A reverse way to create Minecraft Modpack, from mods to MC Version and Loader.
+  - [Cobblemon 2.0 Guide](https://github.com/Lord-ZuzurNC/Minecraft_Cobblemon_Guide) - A guide to install and configure Cobblemon 2.0 to play alone or with friends the same PokeRayou and Abe did on their private servers.
 
 - 🌱 I’m currently learning **Python (from scratch)**
 
@@ -37,8 +37,8 @@
 <h2 align="center">My Stats</h2>
 
 <div align=center>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs?username=lord-zuzurnc&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&theme=catppuccin_mocha"><img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=lord-zuzurnc&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&theme=catppuccin_mocha" alt="Lord-ZNC's Most Used Languages" /> </a>
-    <a href="https://github-readme-stats.vercel.app/api?username=lord-zuzurnc&count_private=true&show_icons=true&locale=en&theme=catppuccin_mocha"><img width=390 src="https://github-readme-stats.vercel.app/api?username=lord-zuzurnc&count_private=true&show_icons=true&locale=en&theme=catppuccin_mocha" alt="Lord-ZNC's GitHub Stats" /> </a>
+    <!--<a href="https://github-readme-stats.vercel.app/api/top-langs?username=lord-zuzurnc&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&theme=catppuccin_mocha"><img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=lord-zuzurnc&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&theme=catppuccin_mocha" alt="Lord-ZNC's Most Used Languages" /> </a>
+    <a href="https://github-readme-stats.vercel.app/api?username=lord-zuzurnc&count_private=true&show_icons=true&locale=en&theme=catppuccin_mocha"><img width=390 src="https://github-readme-stats.vercel.app/api?username=lord-zuzurnc&count_private=true&show_icons=true&locale=en&theme=catppuccin_mocha" alt="Lord-ZNC's GitHub Stats" /> </a>-->
     <a href="https://streak-stats.demolab.com?user=Lord-Zuzurnc&theme=catppuccin-mocha&date_format=j%20M%5B%20Y%5D&mode=weekly"><img src="https://streak-stats.demolab.com?user=Lord-Zuzurnc&theme=catppuccin-mocha&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="Lord-ZuzurNC Github Streak" /> </a>
 </div>
 
