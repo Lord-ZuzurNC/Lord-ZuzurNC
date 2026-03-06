@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on
   - [Whaaaam](https://github.com/Lord-ZuzurNC/Whaaaam) - A reverse way to create Minecraft Modpack, from mods to MC Version and Loader.
-  - [Cobblemon 2.0 Guide](https://github.com/Lord-ZuzurNC/Minecraft_Cobblemon_Guide) - A guide to install and configure Cobblemon 2.0 to play alone or with friends the same PokeRayou and Abe did on their private servers.
+  - [Cacademy Guide](https://github.com/Lord-ZuzurNC/Minecraft_Cacademy_Guide) - A guide to install and configure Cacademy to play alone or with friends the same PokeRayou and Abe did on their private servers.
 
 - 🌱 I’m currently learning **Python (from scratch)**
 
